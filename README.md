@@ -11,6 +11,8 @@
 
 ```bash
 pip install vector_db
+
+from vector_nest import VectorNest
 ```
 
 ### ⚡ Project Details
